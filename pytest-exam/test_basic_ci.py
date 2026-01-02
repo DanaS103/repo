@@ -15,3 +15,5 @@ def test_ci_is_working():
 
 def test_ci_should_fail():
     assert 1 + 1 == 3
+
+# 이 테스트는 의도적으로 실패하도록 작성되었습니다.
